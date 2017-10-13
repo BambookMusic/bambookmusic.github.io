@@ -1,0 +1,16 @@
+body{background-image: url("eiad.jpg");
+
+}
+
+
+h1 {
+	font-size:50px;
+	color:white;
+	margin: 20PX;
+background-color:black;
+padding:20px;
+margin:20px;
+width:100%;
+display:inline-block;
+}
+
